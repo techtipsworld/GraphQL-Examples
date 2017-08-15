@@ -10,6 +10,7 @@ This repository contains the example of [original repository](https://github.com
 [Git repository](https://github.com/yarax/swagger-to-graphql) 
 
 ## How to build ?
-    clone respository
+    clone https://github.com/techtipsworld/GraphQL-Examples.git
+	cd swagger-to-graphql
     npm install
     npm start
