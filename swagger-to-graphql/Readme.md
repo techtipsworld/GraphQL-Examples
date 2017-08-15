@@ -11,6 +11,7 @@ This repository contains the example of [original repository](https://github.com
 
 ## How to build ?
     git clone https://github.com/techtipsworld/GraphQL-Examples.git
+	cd GraphQL-Examples
 	cd swagger-to-graphql
     npm install
     npm start
